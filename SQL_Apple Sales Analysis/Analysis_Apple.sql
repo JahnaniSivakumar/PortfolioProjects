@@ -18,7 +18,6 @@ Tables (5):
 =====================================
 */
 
-
 Select * from category;
 Select * from product;
 Select * from stores;
