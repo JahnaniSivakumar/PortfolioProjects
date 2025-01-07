@@ -9,7 +9,7 @@
 - However, the massive dataset, comprising multiple tables (category, products, stores, sales transactions, and warranty claims), requires exploration and analysis
 - The **goal** is to derive **actionable insights using SQL for effective decision-making** to answer questions about product performance, store efficiency, and claim resolutions
 
-### Solution Breakdown
+### Solution Breakdown - [Link to Solution](Analysis_Apple.sql)
 
 This project primarily focuses on leveraging SQL to explore data from multiple tables
 - **Complex Joins and Aggregations**: Demonstrating the ability to perform complex SQL joins and aggregate data frm multiple tables
