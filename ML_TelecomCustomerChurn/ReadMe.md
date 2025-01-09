@@ -7,7 +7,7 @@
 - Understanding the characteristics of churners and predicting churn behavior helps in retaining customers, improving satisfaction, and sustaining market share.
 - This requires developing a data-driven predictive model to identify at-risk customers and segment them for targeted retention strategies.
 
-## Solution Overview 
+## Solution Overview - [Link to Solution](Telecom_Customer_Churn_Prediction.ipynb)
 - Initial Understanding of the domain: Exploring the possibilities of the churning customer pesonna and sourcing dataset from Kaggle
 - Imbalanced target variable hence used SMOTEENN to re-sample
 - Data wrangling methods to set the appropriate data types for every feature and handle any missing data
